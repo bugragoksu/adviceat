@@ -1,0 +1,26 @@
+[
+    {
+      "yemekId": 3,
+      "yemekAdi": "Salçalı Makarna",
+      "yemekTarif": "<p>sal&ccedil;alı makarna</p>",
+      "yemekResimUrl": "https://listelist.com/wp-content/uploads/2018/10/05-yemek-pisirme-teknikleri-firinlama.jpg"
+    },
+    {
+      "yemekId": 2,
+      "yemekAdi": "Tavuklu Makarna",
+      "yemekTarif": "<p>tavuklu makarna</p>",
+      "yemekResimUrl": "https://listelist.com/wp-content/uploads/2018/10/05-yemek-pisirme-teknikleri-firinlama.jpg"
+    },
+    {
+      "yemekId": 4,
+      "yemekAdi": "Sucuklu Yumurta",
+      "yemekTarif": "<p>Sucuk ve yumurta</p>",
+      "yemekResimUrl": "https://listelist.com/wp-content/uploads/2018/10/05-yemek-pisirme-teknikleri-firinlama.jpg"
+    },
+    {
+      "yemekId": 5,
+      "yemekAdi": "bol malzemos",
+      "yemekTarif": "<p>bol malzemeli pizza</p>",
+      "yemekResimUrl": "https://listelist.com/wp-content/uploads/2018/10/05-yemek-pisirme-teknikleri-firinlama.jpg"
+    }
+  ]

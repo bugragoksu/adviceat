@@ -1,0 +1,110 @@
+[  
+   {  
+      "id":1001,
+      "title":"Beef Stroganoff",
+      "description":"Beef stroganoff is the ultimate cold weather dinner. Usually, dishes this hearty take hours of simmering or braising, but not ours. With a few flavor-building tips, you’re only an hour away from perfect stroganoff, which makes it perfect for weeknights. What are you waiting for?!",
+      "vegetarian":false,
+      "vegan":false,
+      "glutenFree":false,
+      "dairyFree":false,
+      "servings":4,
+      "sourceUrl":"https://www.delish.com/cooking/recipe-ideas/a23572583/beef-stroganoff-recipe/",
+      "likes":81,
+      "readyInMinutes":75,
+      "image":"1001.jpg",
+      "ingredients":[  
+         "1 (12-oz.) package egg noodles",
+         "2 tbsp. butter",
+         "1 tbsp. vegetable oil",
+         "1 lb. beef chuck roast, cut into 1inch pieces",
+         "Kosher salt",
+         "Freshly ground black pepper",
+         "2 tbsp. extra-virgin olive oil, divided",
+         "1 lb. baby Bella mushrooms, thinly sliced",
+         "1/2 large onion, chopped",
+         "2 cloves garlic, minced",
+         "2 tsp. fresh thyme leaves",
+         "1 tbsp. tomato paste",
+         "4 c. low-sodium beef or chicken broth",
+         "2 tsp. dijon mustard",
+         "1 tsp. Worcestershire sauce",
+         "2 tbsp. cornstarch",
+         "2 tbsp. sour cream, plus more for serving",
+         "2 tbsp. freshly chopped parsley"
+      ],
+      "instructions":[  
+         "Prepare egg noodles according to package instructions and toss with butter while still hot.",
+         "In a large skillet over medium-high heat, heat vegetable oil. Add beef and sear 8 to 10 minutes, until golden on all sides, and season with salt and pepper. Work in batches if needed. Remove beef and place in a large bowl.",
+         "Lower heat to medium and add one tablespoon olive oil. Add mushrooms and cook until golden and tender, 8 to 10 minutes. Remove from skillet and place in bowl with beef.",
+         "Add remaining olive oil and add onion. Cook until tender, 6 minutes. Add garlic, thyme, and tomato paste and cook until fragrant, 2 minutes more. Stir in broth, mustard, and Worcestershire sauce and bring to a simmer.",
+         "In a small bowl, whisk some of the hot broth into your cornstarch. Stir into broth along with reserved beef and mushrooms and continue to simmer until thickened by about half, 10 to 12 minutes. Remove from heat and stir in sour cream. Season with salt and pepper.",
+         "Spoon beef mixture over prepared egg noodles and garnish with a dollop of sour cream and parsley."
+      ]
+   },
+   {  
+      "id":1002,
+      "title":"Lemon Glazed Salmon",
+      "description":"A simple lemon glaze goes a long way.",
+      "vegetarian":true,
+      "vegan":false,
+      "glutenFree":true,
+      "dairyFree":false,
+      "servings":4,
+      "sourceUrl":"https://www.delish.com/cooking/recipe-ideas/recipes/a50886/glazed-lemon-salmon-recipe/",
+      "likes":129,
+      "readyInMinutes":50,
+      "image":"1002.jpg",
+      "ingredients":[  
+         "2 tbsp. extra-virgin olive oil",
+         "4 6-oz. salmon fillets, patted dry with paper towels",
+         "kosher salt",
+         "Freshly ground black pepper",
+         "3 tbsp. unsalted butter",
+         "3 cloves garlic, minced",
+         "Juice and zest of 1 lemon, plus 1 thinly sliced lemon",
+         "1 c. low-sodium chicken broth",
+         "2 tbsp. chopped fresh parsley"
+      ],
+      "instructions":[  
+         "In a large skillet over medium-high heat, heat oil. When oil is hot but not smoking, add salmon skin-side up and season with salt and pepper. Cook salmon until deeply golden, about 6 minutes, then flip over and cook 2 minutes more. Transfer to a plate.",
+         "Reduce heat to medium, then add 1 tablespoon butter, garlic, and lemon juice and zest and cook 2 minutes. Add lemon slices and chicken broth to skillet and season with salt and pepper. Simmer on low until reduced, 3 to 5 minutes",
+         "Return salmon back to skillet and simmer until salmon is cooked through, 3 to 4 minutes. Add remaining 2 tablespoons butter and stir to create creamy sauce.",
+         "Garnish with parsley and serve immediately."
+      ]
+   },
+   {  
+      "id":1003,
+      "title":"Caprese Chicken Pasta",
+      "description":"Go ca-prazay!",
+      "vegetarian":false,
+      "vegan":false,
+      "glutenFree":false,
+      "dairyFree":true,
+      "servings":4,
+      "sourceUrl":"https://www.delish.com/cooking/recipe-ideas/recipes/a52046/caprese-chicken-pasta-recipe/",
+      "likes":109,
+      "readyInMinutes":30,
+      "image":"1003.jpg",
+      "ingredients":[  
+         "1/2 c. balsamic vinegar",
+         "1/4 c. sugar",
+         "2 tbsp. honey",
+         "11 oz. Boneless Skinless Chicken Breast",
+         "2 tsp. Italian seasoning, divided",
+         "1 tsp. garlic powder",
+         "Kosher salt",
+         "Freshly ground black pepper",
+         "4 tbsp. extra-virgin olive oil, divided",
+         "12 oz. cooked short pasta noodles (such as penne or spiral)",
+         "1 c. cherry tomatoes, halved",
+         "2 oz. fresh mozzarella, thinly sliced"
+      ],
+      "instructions":[  
+         "Make balsamic glaze: In a medium saucepan, add balsamic vinegar, sugar, and honey and whisk to combine. Bring to a boil over medium-high heat, then reduce heat and simmer until reduced by half. Remove from heat and transfer to a heatproof bowl to cool.",
+         "Meanwhile, in a large skillet over medium-high heat, heat 2 tablespoons oil. Add chicken and cook until warm. Remove from skillet and set aside.",
+         "Add cooked pasta to skillet and drizzle with remaining 2 tablespoons oil. Season with remaining 1 teaspoon Italian seasoning and salt and pepper and stir to combine. Stir in tomatoes and cook until pasta is hot throughout and tomatoes are tender, 2 to 4 minutes.",
+         "Add chicken and mozzarella, then cover and cook until cheese is melty. Drizzle with balsamic glaze and serve."
+      ]
+   }
+
+]

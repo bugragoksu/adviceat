@@ -1,0 +1,18 @@
+[
+    {
+        "kategoriId": 1,
+        "kategoriAdi": "Çorbalar"
+    },
+    {
+        "kategoriId": 3,
+        "kategoriAdi": "Kahvaltılık"
+    },
+    {
+        "kategoriId": 2,
+        "kategoriAdi": "Makarnalar"
+    },
+    {
+        "kategoriId": 4,
+        "kategoriAdi": "Pizza"
+    }
+]
