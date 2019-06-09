@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+Mersin Üniversitesi Bilgisayar Mühendisliği bölümü Yazılım Mühendisliği dersi kapsamında Flutter ile geliştirilmiş mobil uygulama
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
